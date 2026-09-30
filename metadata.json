@@ -1,0 +1,7 @@
+{
+  "name": "Shop Thời Trang - Cửa Hàng Quần Áo",
+  "description": "Website bán quần áo thời trang cao cấp với đầy đủ tính năng mua sắm, giỏ hàng, lọc giá, theo dõi đơn hàng và bảng quản trị Admin sản phẩm, danh mục.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
